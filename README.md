@@ -1,4 +1,4 @@
-Arsitektur
+# Arsitektur
 
 ```mermaid
 graph TD
